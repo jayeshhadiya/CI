@@ -1,0 +1,17 @@
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.repository.deps.json
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.repository.runtimeconfig.json
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.repository.dll
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.repository.pdb
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.csproj.AssemblyReference.cache
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.AssemblyInfoInputs.cache
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.AssemblyInfo.cs
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.csproj.CoreCompileInputs.cache
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.dll
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\refint\CI-Platform.repository.dll
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.pdb
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.genruntimeconfig.cache
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\ref\CI-Platform.repository.dll
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.entites.dll
+E:\AREO\CI-Platform.repository\bin\Debug\net6.0\CI-Platform.entites.pdb
+E:\AREO\CI-Platform.repository\obj\Debug\net6.0\CI-Platform.repository.csproj.CopyComplete

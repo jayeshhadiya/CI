@@ -1,0 +1,14 @@
+E:\AREO\CI-Platform.entites\bin\Debug\net6.0\CI-Platform.entites.deps.json
+E:\AREO\CI-Platform.entites\bin\Debug\net6.0\CI-Platform.entites.runtimeconfig.json
+E:\AREO\CI-Platform.entites\bin\Debug\net6.0\CI-Platform.entites.dll
+E:\AREO\CI-Platform.entites\bin\Debug\net6.0\CI-Platform.entites.pdb
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.csproj.AssemblyReference.cache
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.GeneratedMSBuildEditorConfig.editorconfig
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.AssemblyInfoInputs.cache
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.AssemblyInfo.cs
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.csproj.CoreCompileInputs.cache
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.dll
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\refint\CI-Platform.entites.dll
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.pdb
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\CI-Platform.entites.genruntimeconfig.cache
+E:\AREO\CI-Platform.entites\obj\Debug\net6.0\ref\CI-Platform.entites.dll
